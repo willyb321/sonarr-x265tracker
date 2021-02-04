@@ -1,0 +1,5 @@
+/*
+*   API Credentials
+*/
+const SonarrAPI_url = "http://mediaserver:8989/api/"
+const SonarrAPI_key = "b2a4a458714447818c22494ca088471a"
